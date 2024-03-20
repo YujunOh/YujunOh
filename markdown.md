@@ -13,28 +13,28 @@ ___
 ~~Heading~~
 
 <!-- Quote -->
-> I won't forget to code my dream.
+> Quote
 
 <!-- Bullet list -->
-Fruits:
+Lists :
 * :
 
 `hey`
 
 ```
-Have you been to Daegu?
+Have you been to *
 ```
 
 >Think from a common-sense point of view 
 
-> Self-objectification
+> 
 
-- You
-- I
-- Seoul
-- Daejeon
-- Daegu
-- Gwangju
+- A
+- A
+- A
+- B
+- C
+- D
 
 Numbers:
 1. first
@@ -61,6 +61,6 @@ printf("Hello World");
 return 0;
 ```
 
-- [ ] why the checkboxs are filled?
+- [ ] why is this checkbox not filled?
 - [X] This looks cool
 - [x] Upper & Lower is irrelevant 
