@@ -1,17 +1,39 @@
-## Yujun Oh
+# YujunOh
 
-홍익대학교 컴퓨터공학과
+PM-minded CS student building data/product systems with verification-first AI workflows.
+
+I like turning messy ideas into clear product flows, lightweight backend plans, and testable execution steps.  
+AI helps me move faster, but I own validation, security checks, data consistency, and architecture trade-offs.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## Focus
 
-### Projects
+- **Product engineering**: problem framing, user flow design, Next.js/TypeScript prototypes
+- **Backend growth**: API contracts, data validation, caching, reliability
+- **AI-native workflow**: Claude Code, OpenCode, MCP, Context7, Playwright, Notion/Figma workflows
+- **Career interests**: IT service platforms, telecom/SI, finance IT, data-driven products
 
-[**metropy**](https://metropy.onrender.com) — 서울 지하철 2호선 착석 효용 최적화 의사결정 모델
+## Selected Work & Directions
 
-### BOJ
+- **claude-spec-sync** — Notion/Figma spec-sync slash commands for Claude Code workflows.  
+  Public repo: https://github.com/YujunOh/claude-spec-sync
+
+- **TopBun** — Next.js/TypeScript product playground for auth, upload, DnD, ranking/community flows, and quality planning.  
+  Status: private / active learning project.
+
+- **Metropy** — Transit-data project about Seoul subway congestion and decision support.  
+  Status: private / dormant portfolio material.
+
+- **StockAlpha** — Finance-IT MVP concept for cached market/news data, source-grounded AI summaries, and personal thesis tracking.  
+  Status: concept / portfolio planning material.
+
+## Working Style
+
+- I keep decisions and handoffs in Markdown so future sessions can resume without losing context.
+- I use AI for planning, review, documentation, and test ideation — not as a substitute for understanding.
+- I prefer small verifiable proof first: unit/server-action tests before heavy E2E automation.
+
+## BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbwnsdl1123)](https://solved.ac/dbwnsdl1123)
