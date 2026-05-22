@@ -1,6 +1,7 @@
 # 오유준 (Oh Yujun)
 
-홍익대학교 컴퓨터공학과 3학년 (24학번). 신촌연합 IT창업동아리 CEOS 23기 기획 PM.
+홍익대학교 컴퓨터공학과 3학년. 신촌연합 IT창업학회 CEOS 23기 기획 PM.
+
 Python·SQL로 가설 검증하고, AI 도구로 빠르게 짠 산출물은 테스트·문서로 다시 확인해서 씁니다.
 
 ## 지금 만들고 있는 것
@@ -12,10 +13,8 @@ _Past: TopBun, Metropy, StockAlpha — 학습용으로 멈춰둔 사이드._
 
 ## 진로 방향
 
-- **1순위**: Cloud Infra · DevOps · Kubernetes · Docker · 백엔드 기초.
-  타겟: LG CNS, 삼성SDS, 네이버클라우드 같은 SI/클라우드 트랙.
-- **병행**: 금융 IT (증권사·핀테크 IT 도메인).
-- **학부연구생 컨택 관심**: 홍익대 컴공 APL/DINA (분산 시스템·Pub/Sub·핀테크).
+- **1순위**: Cloud Infra · DevOps · Kubernetes · Docker · 백엔드 기초. 타겟은 LG CNS · 삼성SDS · 네이버클라우드 같은 SI/클라우드 트랙.
+- **병행**: 금융 IT (증권사 · 핀테크 IT 도메인).
 - **인턴 기간 희망**: 2026.下 또는 2026 겨울 ~ 2027.上 (3~6개월).
 
 ## 손에 익은 것
@@ -28,9 +27,9 @@ _Past: TopBun, Metropy, StockAlpha — 학습용으로 멈춰둔 사이드._
 
 ## 학습·자격증 계획
 
-- 보유: ADSP, 정보처리기능사, OPIc IH, 운전면허 1종 보통, GPA 3.9/4.5
+- 보유: ADSP, 정보처리기능사
 - 진행: TOEIC 900+ 갱신 (2026.07), SQLD (2026.08.22)
-- 검토 중: AWS SAA, 정보처리기사 (4학년), 리눅스마스터, 오픽 AL
+- 검토 중: AWS SAA, 정보처리기사, 리눅스마스터, OPIc
 
 ## Disclosure
 
@@ -39,7 +38,7 @@ _Past: TopBun, Metropy, StockAlpha — 학습용으로 멈춰둔 사이드._
 ## Contact
 
 - Email: yujun1123@g.hongik.ac.kr
-- 인턴·학부연구생 컨택 환영
+- 인턴 컨택 환영
 
 ## BOJ
 
