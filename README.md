@@ -20,27 +20,27 @@
 
 ### DITDA (진행 중)
 
-신촌연합 IT 창업학회 CEOS에서 진행한 학원 강사와 디자이너를 이어주는 1:N 디자인 외주 매칭 플랫폼입니다.
+**신촌연합 IT 창업학회 CEOS**에서 진행한 학원 강사와 디자이너를 이어주는 **1:N 디자인 외주 매칭 플랫폼**입니다.
 
-현재 기획을 마치고 개발 중이며, 관련 보조 도구로 디자이너의 InDesign 산출물을 학원 한글 환경으로 변환하는 [indd2hwp](https://github.com/YujunOh/indd2hwp) (Python GUI)도 함께 만들었습니다.
+현재 **기획을 마치고 개발 중**이며, 관련 보조 도구로 디자이너의 **InDesign 산출물**을 **학원 한글 환경**으로 변환하는 [indd2hwp](https://github.com/YujunOh/indd2hwp) (Python GUI)도 함께 만들었습니다.
 
 ### Metropy
 
-서울 2호선 착석 추천 서비스입니다.
+서울 2호선 **착석 추천 서비스**입니다.
 
-정답 데이터가 없는 문제를 예측이 아닌 의사결정으로 재정의하고,
-혼잡도·경유역별 하차량·칸별 하차율·날씨·시간대를 가중치로 묶은 SeatScore 효용 함수로
-칸별 기대 착석 효용(착석 확률 × 착석 후 이동시간)을 계산했습니다.
+**정답 데이터가 없는 문제**를 예측이 아닌 **의사결정으로 재정의**하고,
+혼잡도·경유역별 하차량·칸별 하차율·날씨·시간대를 가중치로 묶은 **SeatScore 효용 함수**로
+칸별 **기대 착석 효용**(착석 확률 × 착석 후 이동시간)을 계산했습니다.
 
-SK Open API·서울 열린데이터광장·TMAP Transit API는 사전 수집·캐시 구조로 활용했고,
-사용자 피드백은 착석 여부와 만족도로 나누어 지표 API로 분리했습니다.
+SK Open API·서울 열린데이터광장·TMAP Transit API는 **사전 수집·캐시 구조**로 활용했고,
+사용자 피드백은 착석 여부와 만족도로 나누어 **지표 API로 분리**했습니다.
 
 `Python` `FastAPI` `SQLite` `scikit-learn`
 
 ### LeakTrendViewer
 
-AutoBase HMI 기반 가스 장비의 Pa 단위 LeakRate2 시계열 데이터를 조회·시각화하고
-Excel 보고서로 내보내는 WPF 도구입니다.
+**AutoBase HMI 기반 가스 장비**의 **Pa 단위 LeakRate2 시계열 데이터**를 조회·시각화하고
+Excel 보고서로 내보내는 **WPF 도구**입니다.
 
 `C#` `WPF` `OxyPlot` `EPPlus` `OleDb`
 
@@ -48,7 +48,7 @@ Excel 보고서로 내보내는 WPF 도구입니다.
 
 ### claude-spec-sync
 
-Notion 기능명세서와 Figma 와이어프레임을 양방향 동기화하는 Claude Code 플러그인입니다.
+**Notion 기능명세서**와 **Figma 와이어프레임**을 양방향 동기화하는 **Claude Code 플러그인**입니다.
 
 `Slash commands` `MCP`
 
@@ -56,7 +56,7 @@ Notion 기능명세서와 Figma 와이어프레임을 양방향 동기화하는 
 
 ### sound-visualization
 
-외부 라이브러리 없이 직접 구현한 FFT 기반 오디오 스펙트럼 분석기입니다.
+**외부 라이브러리 없이 직접 구현**한 **FFT 기반 오디오 스펙트럼 분석기**입니다.
 
 `JavaScript` `Web Audio API` `Canvas`
 
