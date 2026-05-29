@@ -1,45 +1,25 @@
-# 오유준 (Oh Yujun)
+# 오유준 (Yujun Oh)
 
-홍익대학교 컴퓨터공학과 3학년. 신촌연합 IT창업학회 CEOS 23기 기획 PM.
+홍익대학교 컴퓨터공학과 학생.
 
-Python·SQL로 가설 검증하고, AI 도구로 빠르게 짠 산출물은 테스트·문서로 다시 확인해서 씁니다.
+## 진행 중
 
-## 지금 만들고 있는 것
+- **DITDA** — 신촌연합 IT 창업동아리에서 진행한 학원 강사·교재 외주 디자이너 매칭 서비스. 기획 완료·MVP 개발 온보딩 단계.
 
-- **DITDA** — 디자이너 매칭 서비스. CEOS 23기 기획 PM. 178행 기능명세 + 디자이너 4명·잠재 클라이언트 35명 인터뷰로 가설 검증. 데모데이 2026-08-01.
-- **AI Native Workflow** — Claude Code · opencode · Cursor · MCP(Notion·GitHub·Figma·Playwright)를 묶어 야간 자율 루프(ScheduleWakeup + CronCreate)로 굴리는 개인 워크플로우. 일부 패턴은 [`claude-spec-sync`](https://github.com/YujunOh/claude-spec-sync) repo에 공개.
+## 사이드 프로젝트
 
-_Past: TopBun, Metropy, StockAlpha — 학습용으로 멈춰둔 사이드._
-
-## 진로 방향
-
-- **1순위**: Cloud Infra · DevOps · Kubernetes · Docker · 백엔드 기초. 타겟은 LG CNS · 삼성SDS · 네이버클라우드 같은 SI/클라우드 트랙.
-- **병행**: 금융 IT (증권사 · 핀테크 IT 도메인).
-- **인턴 기간 희망**: 2026.下 또는 2026 겨울 ~ 2027.上 (3~6개월).
+- **Metropy** — 서울 2호선 착석 추천 (FastAPI)
+- **LeakTrendViewer** — 가스 장비 LeakRate 시계열 분석 도구 (C# WPF)
 
 ## 손에 익은 것
 
-- 자력: Python, SQL, Bash/PowerShell, Git
-- AI 보조로 학습 중: TypeScript/Next.js, Java/Spring
-- 데이터: pandas, sqlite/BigQuery (학습 중)
-- AI 도구·MCP: Claude Code, opencode, Cursor, Notion·GitHub·Figma·Playwright MCP
-- 자동화: GitHub Actions, Cron, Claude Code 자율 루프(ScheduleWakeup + CronCreate)
+- Python · C#
 
-## 학습·자격증 계획
+## 자격증
 
-- 보유: ADSP, 정보처리기능사
-- 진행: TOEIC 900+ 갱신 (2026.07), SQLD (2026.08.22)
-- 검토 중: AWS SAA, 정보처리기사, 리눅스마스터, OPIc
-
-## Disclosure
-
-이 프로필의 코드 산출물은 AI 도구(Claude Code / opencode / Cursor) 보조로 만듭니다. 본인 자력은 명세·아키텍처 결정·테스트 케이스·검증 로직 쪽입니다. React/Next.js 풀스택을 AI 보조 없이 짤 수 있다고 말하지 않습니다.
+- 데이터 분석 준전문가 (ADsP)
+- 정보처리기능사
 
 ## Contact
 
-- Email: yujun1123@g.hongik.ac.kr
-- 인턴 컨택 환영
-
-## BOJ
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbwnsdl1123)](https://solved.ac/dbwnsdl1123)
+- yujun1123@g.hongik.ac.kr
