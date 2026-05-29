@@ -15,7 +15,6 @@
 
 ### Backend / Desktop
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-1976D2?style=flat&logo=windows&logoColor=white)
 
 ### Algorithm
@@ -47,7 +46,7 @@ SK Open API·서울 열린데이터광장·TMAP Transit API는 **사전 수집·
 **AutoBase HMI 기반 가스 장비**의 **Pa 단위 LeakRate2 시계열 데이터**를 조회·시각화하고
 Excel 보고서로 내보내는 **WPF 도구**입니다.
 
-`C#` `.NET` `WPF` `OxyPlot` `EPPlus` `OleDb`
+`C#` `WPF` `OxyPlot` `EPPlus` `OleDb`
 
 [Repository →](https://github.com/YujunOh/LeakTrendViewer)
 
