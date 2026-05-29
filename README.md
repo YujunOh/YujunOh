@@ -1,6 +1,6 @@
 # 오유준 (Yujun Oh)
 
-홍익대학교 컴퓨터공학과 학생.
+홍익대학교 컴퓨터공학과 3학년.
 
 ## 진행 중
 
@@ -10,10 +10,6 @@
 
 - **Metropy** — 서울 2호선 착석 추천 (FastAPI)
 - **LeakTrendViewer** — 가스 장비 LeakRate 시계열 분석 도구 (C# WPF)
-
-## 손에 익은 것
-
-- Python · C#
 
 ## 자격증
 
