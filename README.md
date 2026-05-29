@@ -21,9 +21,14 @@
 ### DITDA (진행 중)
 신촌연합 IT 창업학회 CEOS에서 진행한 학원 강사와 디자이너를 이어주는 1:N 디자인 외주 매칭 플랫폼. 기획 완료·개발 중.
 
+관련 보조 도구로 디자이너의 InDesign 산출물을 학원 한글 환경으로 변환하는 [indd2hwp](https://github.com/YujunOh/indd2hwp) (Python GUI)도 함께 제작.
+
 ### Metropy
-서울 2호선 착석 추천. 공공 API·외부 데이터를 결합한 SeatScore 효용 함수 기반 의사결정 서비스.
-**Python · FastAPI · SQLite**
+서울 2호선 착석 추천. 정답 데이터가 없는 문제를 예측이 아닌 의사결정으로 재정의하고, 혼잡도·경유역별 하차량·칸별 하차율·날씨·시간대를 가중치로 묶은 SeatScore 효용 함수로 칸별 기대 착석 효용(착석 확률 × 착석 후 이동시간)을 계산.
+
+SK Open API·서울 열린데이터광장·TMAP Transit API는 사전 수집·캐시 구조로 활용하고, 사용자 피드백은 착석 여부와 만족도로 나누어 지표 API로 분리.
+
+**Python · FastAPI · SQLite · scikit-learn**
 
 ### LeakTrendViewer
 AutoBase HMI 기반 가스 장비의 Pa 단위 LeakRate2 시계열 데이터를 조회·시각화하고 Excel 보고서로 내보내는 WPF 도구.
