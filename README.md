@@ -28,18 +28,6 @@
 
 현재 **기획을 마치고 개발 중**이며, 관련 보조 도구로 디자이너의 **InDesign 산출물**을 **학원 한글 환경**으로 변환하는 [indd2hwp](https://github.com/YujunOh/indd2hwp) (Python GUI)도 함께 만들었습니다.
 
-### Metropy
-
-서울 2호선 **착석 추천 서비스**입니다.
-
-**정답 데이터가 없는 문제**를 예측이 아닌 **의사결정으로 재정의**하고,
-혼잡도·경유역별 하차량·칸별 하차율·날씨·시간대를 가중치로 묶은 **SeatScore 효용 함수**로
-칸별 **기대 착석 효용**(착석 확률 × 착석 후 이동시간)을 계산했습니다.
-
-SK Open API·서울 열린데이터광장·TMAP Transit API는 **사전 수집·캐시 구조**로 활용했고,
-사용자 피드백은 착석 여부와 만족도로 나누어 **지표 API로 분리**했습니다.
-
-`Python` `FastAPI` `SQLite` `scikit-learn`
 
 ### LeakTrendViewer
 
@@ -60,7 +48,7 @@ Excel 보고서로 내보내는 **WPF 도구**입니다.
 
 ### sound-visualization
 
-**외부 라이브러리 없이 직접 구현**한 **FFT 기반 오디오 스펙트럼 분석기**입니다.
+**Web Audio API**를 사용한 오디오 스펙트럼 시각화입니다.
 
 `JavaScript` `Web Audio API` `Canvas`
 
